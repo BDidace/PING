@@ -11,9 +11,8 @@ http://chipkit.net/wpcproduct/chipkit-uno32/
 
 # Components used
 ChipKIT™ components
-
-    chipKIT™ Uno32 by Digilent
-    Basic I/O Shield
+[ChipKIT™ Uno32 by Digilent](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
     
     
     
