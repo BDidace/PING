@@ -13,7 +13,7 @@ ChipKIT™ components
 - [Basic I/O Shield](http://chipkit.net/wpcproduct/chipkit-basic-io-shield/)
 
 # Images
-![ping1](https://user-images.githubusercontent.com/62188976/77232707-040ca400-6ba3-11ea-9172-3131d918335f.jpg)
+![ping1 0](https://user-images.githubusercontent.com/62188976/77233375-58b21e00-6ba7-11ea-8100-38931489b0ba.jpg)
 <br>
 ![ping2 0](https://user-images.githubusercontent.com/62188976/77233201-4388bf80-6ba6-11ea-8aea-38a4c2b3c742.jpg)
 <br> 
