@@ -1,7 +1,7 @@
 # PING
 KTH - IS1200: Mini project for the chipKIT™ Uno32. PING is inspired by PONG, with the same basic gameplay (the player controls a paddle traversing the y-axis at the far right of the screen and must bounce the ball to wall on the other side of the screen where the AI controls another paddle).
-<br>
-More detailed information can be found in the draft [DraftPONG.pdf](https://github.com/BDidace/PING/blob/master/DraftPONG.pdf).
+<br><br>
+More detailed information can be found in the [draft](https://github.com/BDidace/PING/blob/master/DraftPONG.pdf).
 
 # Setup
 The [PIC32MX toolchain](https://github.com/is1200-example-projects/mcb32tools) is used for compiling the code.
