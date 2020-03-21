@@ -10,7 +10,7 @@ KTH - IS1200: Mini project
 # Components used
 ChipKIT™ components
 <br>
-- [ChipKIT™ Uno32 by Digilent](/http://chipkit.net/wpcproduct/chipkit-uno32/)
+- [ChipKIT™ Uno32 by Digilent](http://chipkit.net/wpcproduct/chipkit-uno32/)
 - [Basic I/O Shield](/sample_page)
     
     
