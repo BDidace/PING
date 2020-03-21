@@ -1,4 +1,4 @@
-![logo-ping](https://user-images.githubusercontent.com/62188976/77233523-50a6ae00-6ba8-11ea-955b-ca2c9e233aa0.png)
+![logo-ping-mini](https://user-images.githubusercontent.com/62188976/77233554-8d72a500-6ba8-11ea-8a8c-2af2350600d5.png)
 <br><br>
 KTH - IS1200: Mini project for the chipKIT™ Uno32. PING is inspired by PONG, with the same basic gameplay (the player controls a paddle traversing the y-axis at the far right of the screen and must bounce the ball to wall on the other side of the screen where the AI controls another paddle).
 <br><br>
