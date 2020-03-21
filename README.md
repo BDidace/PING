@@ -3,7 +3,7 @@ KTH - IS1200: Mini project
 
 
 
-
+http://chipkit.net/wpcproduct/chipkit-uno32/
 
 # Setup
 
@@ -14,4 +14,7 @@ ChipKIT™ components
 
     chipKIT™ Uno32 by Digilent
     Basic I/O Shield
+    
+    
+    
 
