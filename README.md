@@ -12,7 +12,6 @@ http://chipkit.net/wpcproduct/chipkit-uno32/
 # Components used
 ChipKIT™ components
 [ChipKIT™ Uno32 by Digilent](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
     
     
     
